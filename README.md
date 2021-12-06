@@ -35,5 +35,5 @@ https://learn.unity.com/project/kateu-maikeurogeim
 23. 게임 이름변경 https://learn.unity.com/tutorial/kateu-modeu-geim-ireum-jijeong?uv=2019.3&start=true&projectId=5f69877cedbc2a0020ab72e6#5f9e5c78edbc2a0020b86580
 24. 빌드 이름 변경 https://rymin.tistory.com/34
 25. 인트로 화면에서 부스트 , 점프 키 표시 https://cholol.tistory.com/445
-
+26. 맵 지형 추가
 
