@@ -4,9 +4,9 @@
 https://learn.unity.com/project/kateu-maikeurogeim
 
 # 수정 폴더
-Assets 폴더
-ProjectSettings 폴더
-
+##Assets 폴더
+##ProjectSettings 폴더
+## Packages 폴더
 
 
 
