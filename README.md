@@ -21,19 +21,19 @@ https://learn.unity.com/project/kateu-maikeurogeim
 8. 속도 2배 버튼 스크립트 생성 https://onepinetwopine.tistory.com/25
 9. 속도가 100일 경우 30으로 변경 스크립트 추가 https://wergia.tistory.com/229
 10. 최대 속도 화면에 표시 https://cholol.tistory.com/445
-12. 속도 측정 스크립트 추가 https://chameleonstudio.tistory.com/11
-13. 외부 클래스 참조해서 변수 변경 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=dreamstalker&logNo=220699991663
-14. 부스터 앞으로 방향 지정 https://rucya.tistory.com/131
-15. 부스터 먹기 구현 https://notyu.tistory.com/31
-16. 부스터 저장 구현 https://fiftiesstudy.tistory.com/213
-17. 부스터 아이템 개수 화면에 표시 https://cholol.tistory.com/445
-18. 부스터 키입력시 사용 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=khagaa&logNo=30128161398
-19. 체크포인트 개수 추가 http://www.devkorea.co.kr/bbs/board.php?bo_table=m03_qna&wr_id=76770
-20. 장애물 추가 https://itadventure.tistory.com/409
-21. 점프 버튼 추가 https://ncube-studio.tistory.com/entry/%EC%99%BC%EC%AA%BD-Shift%ED%82%A4-%EB%88%84%EB%A5%B4%EB%A9%B4-%EB%8B%AC%EB%A6%AC%EA%B8%B0-%EA%B5%AC%ED%98%84-%EA%B1%B7%EA%B8%B0-%EB%8B%AC%EB%A6%AC%EA%B8%B0-How-to-Character-running-when-hold-down-Left-Shift-%EC%9C%A0%EB%8B%88%ED%8B%B0-%EA%B2%8C%EC%9E%84-%EA%B0%9C%EB%B0%9C-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BCUnity-C-Script
-22. 점프 구현 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=khagaa&logNo=30128161398
-23. 게임 이름변경 https://learn.unity.com/tutorial/kateu-modeu-geim-ireum-jijeong?uv=2019.3&start=true&projectId=5f69877cedbc2a0020ab72e6#5f9e5c78edbc2a0020b86580
-24. 빌드 이름 변경 https://rymin.tistory.com/34
-25. 인트로 화면에서 부스트 , 점프 키 표시 https://cholol.tistory.com/445
-26. 맵 지형 추가
+11. 속도 측정 스크립트 추가 https://chameleonstudio.tistory.com/11
+12. 외부 클래스 참조해서 변수 변경 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=dreamstalker&logNo=220699991663
+13. 부스터 앞으로 방향 지정 https://rucya.tistory.com/131
+14. 부스터 먹기 구현 https://notyu.tistory.com/31
+15. 부스터 저장 구현 https://fiftiesstudy.tistory.com/213
+16. 부스터 아이템 개수 화면에 표시 https://cholol.tistory.com/445
+17. 부스터 키입력시 사용 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=khagaa&logNo=30128161398
+18. 체크포인트 개수 추가 http://www.devkorea.co.kr/bbs/board.php?bo_table=m03_qna&wr_id=76770
+19. 장애물 추가 https://itadventure.tistory.com/409
+20. 점프 버튼 추가 https://ncube-studio.tistory.com/entry/%EC%99%BC%EC%AA%BD-Shift%ED%82%A4-%EB%88%84%EB%A5%B4%EB%A9%B4-%EB%8B%AC%EB%A6%AC%EA%B8%B0-%EA%B5%AC%ED%98%84-%EA%B1%B7%EA%B8%B0-%EB%8B%AC%EB%A6%AC%EA%B8%B0-How-to-Character-running-when-hold-down-Left-Shift-%EC%9C%A0%EB%8B%88%ED%8B%B0-%EA%B2%8C%EC%9E%84-%EA%B0%9C%EB%B0%9C-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BCUnity-C-Script
+21. 점프 구현 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=khagaa&logNo=30128161398
+22. 게임 이름변경 https://learn.unity.com/tutorial/kateu-modeu-geim-ireum-jijeong?uv=2019.3&start=true&projectId=5f69877cedbc2a0020ab72e6#5f9e5c78edbc2a0020b86580
+23. 빌드 이름 변경 https://rymin.tistory.com/34
+24. 인트로 화면에서 부스트 , 점프 키 표시 https://cholol.tistory.com/445
+25. 맵 지형 추가
 
