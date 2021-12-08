@@ -3,11 +3,12 @@ using UnityEngine.EventSystems;
 using UnityEngine.UI;
 using KartGame.KartSystems;
 using TMPro;
-
+using UnityEngine.SceneManagement;
 public class InGameMenuManager : MonoBehaviour
 {
     [Tooltip("Root GameObject of the menu used to toggle its activation")]
     public GameObject menuRoot;
+    GameFlowManager gam_e;
     public TextMeshProUGUI Max_Speed;
     public GameObject obj;
     [Tooltip("Master volume when menu is open")]
@@ -18,6 +19,8 @@ public class InGameMenuManager : MonoBehaviour
     [Tooltip("Toggle component for framerate display")]
     public Toggle framerateToggle;
     [Tooltip("GameObject for the controls")]
+    public DisplayMessage loseDisplayMessage;
+
     public GameObject controlImage;
 
     //PlayerInputHandler m_PlayerInputsHandler;
@@ -41,10 +44,7 @@ public class InGameMenuManager : MonoBehaviour
         framerateToggle.onValueChanged.AddListener(OnFramerateCounterChanged);
     }
 
-    public void SpeedUp()
-    {
 
-    }
     private void Update()
     {
 
@@ -132,6 +132,13 @@ public class InGameMenuManager : MonoBehaviour
             kart.baseStats.TopSpeed = 100;
             Max_Speed.text = string.Format("MAXSPEED : 100");
         }
+    }
+    GameFlowManager m_GameFlowManager;
+    public void Replay()
+    {
+        m_GameFlowManager = FindObjectOfType<GameFlowManager>();
+        m_GameFlowManager.EndGame(false);
+
     }
 
 }

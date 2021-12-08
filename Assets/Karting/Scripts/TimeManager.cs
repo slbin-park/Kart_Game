@@ -8,7 +8,7 @@ public class TimeManager : MonoBehaviour
     public bool IsFinite { get; private set; }
     public float TotalTime { get; private set; }
     public float TimeRemaining { get; private set; }
-    public bool IsOver { get; private set; }
+    public bool IsOver { get; set; }
 
     private bool raceStarted;
 
